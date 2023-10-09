@@ -9,5 +9,5 @@ pero kung meron na, wag na. kung meron na, punta ka sa loob: \
 * STEP 1: activate nextflow environment \
 ``` conda activate nextflow-env ```
 * STEP2: type mo lang to
-``` nextflow main.nf --reads <path/to/reads> --out_dir <name/of/directory> --ref_genome <path/to/reference.fasta>
+``` nextflow main.nf --reads <path/to/reads> --out_dir <name/of/directory> --ref_genome <path/to/reference.fasta> ```
 
