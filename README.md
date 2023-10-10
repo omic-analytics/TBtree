@@ -1,5 +1,6 @@
 # TBtree
-pang gawa ng puno ng pag-uugnay (relationship tree) ng iba't ibang lahi ng mycobacterium tuberculosis
+pang gawa ng puno ng pag-uugnay (relationship tree) ng iba't ibang lahi ng mycobacterium tuberculosis \
+ito ay pang illumina paired-end reads lang
 
 ## Paano gamitin?
 * STEP 0: clone repository \
